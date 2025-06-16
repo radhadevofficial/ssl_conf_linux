@@ -1,4 +1,4 @@
-To configure SSL for Apache2 on Ubuntu, follow these steps:
+configure SSL for Apache2 on Ubuntu, follow these steps:
 
 ---
 
@@ -109,4 +109,3 @@ Edit the default HTTP config (`000-default.conf`) or your virtual host file:
 
 ---
 
-Would you like help with creating a certificate or configuring for a specific domain or environment like Proxmox VM or localhost?
